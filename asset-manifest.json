@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cash_bank/static/css/main.6dfcd059.chunk.css",
+    "main.js": "/cash_bank/static/js/main.e021d62f.chunk.js",
+    "main.js.map": "/cash_bank/static/js/main.e021d62f.chunk.js.map",
+    "runtime-main.js": "/cash_bank/static/js/runtime-main.1a6c0238.js",
+    "runtime-main.js.map": "/cash_bank/static/js/runtime-main.1a6c0238.js.map",
+    "static/js/2.f0743e0f.chunk.js": "/cash_bank/static/js/2.f0743e0f.chunk.js",
+    "static/js/2.f0743e0f.chunk.js.map": "/cash_bank/static/js/2.f0743e0f.chunk.js.map",
+    "index.html": "/cash_bank/index.html",
+    "precache-manifest.9f5c156040d04cc1936ef72e7da9de79.js": "/cash_bank/precache-manifest.9f5c156040d04cc1936ef72e7da9de79.js",
+    "service-worker.js": "/cash_bank/service-worker.js",
+    "static/css/main.6dfcd059.chunk.css.map": "/cash_bank/static/css/main.6dfcd059.chunk.css.map",
+    "static/js/2.f0743e0f.chunk.js.LICENSE.txt": "/cash_bank/static/js/2.f0743e0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a6c0238.js",
+    "static/js/2.f0743e0f.chunk.js",
+    "static/css/main.6dfcd059.chunk.css",
+    "static/js/main.e021d62f.chunk.js"
+  ]
+}
